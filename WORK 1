@@ -1,0 +1,72 @@
+
+    <html>
+        <head>
+            <title>
+                First Program
+            </title>
+            <style>
+                h1{
+                    text-align: center;
+                    color: crimson;
+                    text-decoration: underline;
+                    text-transform: uppercase;
+                    font-style: italic;
+                    font-weight: 700;
+                    font-size: 200;
+                }
+            </style>
+            </head>
+            <body>
+                <h1>
+                    First Program
+                </h1>
+                <h2>
+                    First Program
+                </h2>
+                <h3>
+                    first Program
+                </h3>
+                    <p>
+                        <br>
+                        This article is  distributed under the terms of the Creative Attribution NonCommercial-NoDerives (CC BY-NC-ND) licence.
+                        </br>
+                        <br>
+                        This licence only allows you to download torshis work and share it with others as long as you credit the authors, but you can't change the article in any way or use itcommercially.
+                        </br>
+                        <br>
+                        More information and the full terms of the licence here:http://creativecommons.org/licences/
+                        </br> 
+                    </p>
+                <h4>
+                   First Program
+                </h4>
+                <h5>
+                  First program
+                 </h5>
+                <h6>
+                   First Program
+                 </h6>
+                <p>
+                    <br>
+                     This article is  distributed under the terms of the Creative Attribution NonCommercial-NoDerives (CC BY-NC-ND) licence.
+                    </br>
+                    <br>
+                     This licence only allows you to download torshis work and share it with others as long as you credit the authors, but you can't change the article in any way or use itcommercially.
+                    </br>
+                    <br>
+                      More information and the full terms of the licence here:https://creativecommons.org/licences/
+                     </br>
+                </p>
+            </hr>
+          
+            <img src="https://codeop.tech/wp-content/uploads/2022/09/data-analytics-courses.jpg" alt="woman coding"/>
+                
+             
+                    
+            <style>
+               html{
+                   background-color: blue;
+               }
+            </style>
+        </body>
+    </html>
